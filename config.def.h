@@ -114,14 +114,7 @@ static const char *colorname[] = {
 	"#839496",  /* 12: brblue   */
 	"#6c71c4",  /* 13: brmagenta*/
 	"#93a1a1",  /* 14: brcyan   */
-<<<<<<<
 	"#fdf6e3",  /* 15: brwhite  */
-=======
-	TAGKEYS(                        XK_8,                      7)
-	TAGKEYS(                        XK_9,                      8)
-	{ MODKEY|ShiftMask,             XK_q,      quit,           {0} },
-	{ MODKEY|ControlMask|ShiftMask, XK_q,      quit,           {1} }, 
->>>>>>>
 };
 
 
